@@ -5,7 +5,7 @@ Ao longo da minha carreira como desenvolvedor tive o prazer de participar de vá
 
 Abaixo uma lista dos softwares que ajudei a construir:
 
-* **CSZ**
+* **[CSZ](http://csz.azurewebsites.net/site)**
 
 
 * **[FOL](http://financialonline.com.br)**
