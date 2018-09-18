@@ -3,10 +3,15 @@
 Ao longo da minha carreira como desenvolvedor tive o prazer de participar de vários projetos, principalmente para o mercado financeiro.
 
 
-Abaixo uma lista dos softwares que ajudei a construir
+Abaixo uma lista dos softwares que ajudei a construir:
+
+* **CSZ**
 
 
-* **Orkeo**
+* **[FOL](http://financialonline.com.br)**
+
+* **[Orkeo](http://www.orkeo.com/)** 
+
 
 * **Risk**
 
@@ -14,11 +19,7 @@ Abaixo uma lista dos softwares que ajudei a construir
 
 * **Identity**
 
-* **Blotter**
-
-* **CSZ**
-
-* **FOL**
+* **Blotter** 
 
 * **Boletador**
 
